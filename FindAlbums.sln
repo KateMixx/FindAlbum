@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindAlbums", "FindAlbums\FindAlbums.csproj", "{FD7467E2-9DDE-4043-BD92-B219CD55A5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7467E2-9DDE-4043-BD92-B219CD55A5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7467E2-9DDE-4043-BD92-B219CD55A5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7467E2-9DDE-4043-BD92-B219CD55A5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7467E2-9DDE-4043-BD92-B219CD55A5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22FD9149-2FA3-4CCC-8E43-C817A6EC224E}
+	EndGlobalSection
+EndGlobal
